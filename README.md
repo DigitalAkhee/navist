@@ -60,7 +60,6 @@ Overall, Navist can contribute to achieving several SDGs, particularly those rel
 | ![materials](screen/materials.png)  | ![level](screen/levels.png)  | ![Biology](screen/bio.png)  |
 
 ## Shoutout
-To his Contribution to google map have been a major factor in the success of this project, and I am deeply grateful for your efforts
+To [Mallam muhammad dawaki](https://www.google.com/maps/contrib/114799831498403795750/reviews/@9.0937473,9.7493247,7z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=en-US)  his Contribution to google map have been a major factor in the success of this project, and I am deeply grateful for your efforts
 
-[Mallam muhammad dawaki](https://www.google.com/maps/contrib/114799831498403795750/reviews/@9.0937473,9.7493247,7z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=en-US)
 By sharing his experience, you have helped to make this process more efficient and effective.
