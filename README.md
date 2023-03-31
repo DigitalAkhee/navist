@@ -45,20 +45,15 @@ While this target has a specific focus on scholarships, **Navist can still contr
 Overall, Navist can contribute to achieving several SDGs, particularly those related to **education**, **innovation**, and **reducing inequalities**. By supporting students in their learning and navigation on campus, Navist can contribute to the development of a more equitable and sustainable world.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
-
-## The app has the following Features:
-
-* **Note** 
-
 ## Application Screenshots
 
-| Navis  | Home Page | Locations |
+|  Home Page | Locations | Faculties  |
 | ------------- | ------------- | ------------- |
-| ![login](./screen/home.png)  | ![home page](screen/ho2.png))  | ![Location](/screen/location.png)  |
+| ![home page](screen/ho2.png))   |  ![Location](/screen/location.png) |  ![Faculties](screen/facultty.png)  |
 
-| Faculties  | Unit | Lecture Theathers |
+| Unit | Lecture Theathers  | location |
 | ------------- | ------------- | ------------- |
-| ![Faculties](screen/facultty.png)  | ![Unit](screen/unit.png)  | ![Theathers](screen/lecturetheater.png)  |
+|  ![Unit](screen/unit.png) | ![Theathers](screen/lecturetheater.png) | ![](screen/postion.png)  |
 
 | materials  | 100 level | Biology |
 | ------------- | ------------- | ------------- |
