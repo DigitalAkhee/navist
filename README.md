@@ -24,22 +24,22 @@ such as Navist, can contribute to achieving several of the United Nations' Susta
 Overall, Navist can contribute to achieving several SDGs, particularly those related to education, innovation, and reducing inequalities. By supporting students in their learning and navigation on campus, Navist can contribute to the development of a more equitable and sustainable world.
 
 
-> We chose these specific SDGs and targets because 
+## We chose these specific SDGs and targets because 
 Navist can potentially address several targets under SDG 4: Quality Education. Here are some of the specific targets that Navist can contribute to:
 
-- Target 4.1: By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes.
+### Target 4.1: By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes.
 
 Navist can support this target by providing students with access to learning materials and support, which can help them to achieve better learning outcomes.
 
-- Target 4.3: By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university.
+### Target 4.3: By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university.
 
 Navist can contribute to this target by providing all students, regardless of their socio-economic status or location, with equal access to learning resources and support.
 
-- Target 4.5: By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations.
+### Target 4.5: By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations.
 
 Navist can support this target by providing equal access to learning resources and support for all students, including those who may face barriers to accessing education.
 
-- Target 4.b: By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes, in developed countries and other developing countries.
+### Target 4.b: By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes, in developed countries and other developing countries.
 
 While this target has a specific focus on scholarships, Navist can still contribute to this goal by providing access to educational resources, including information and communications technology, to students in developing countries and supporting their learning.
 
