@@ -8,7 +8,10 @@
 - handouts, 
 - past exams questions 
 - And past test question
-
+# Global Todolist
+| Goals4  | Goals9 | Goals10 | Goals17 |
+| ------------- | ------------- | ------------- |
+| ![Goals4](public/assets/g4.png)  | ![Goals9](public/assets/g9.png) | ![Goals10](public/assets/g10.png)  | ![Goals17](public/assets/g17.png) |
 ### The use of technology such as Navist, can contribute to achieving several of the United Nations' Sustainable Development Goals (SDGs), including:
 
 - **SDG 4**: Quality Education: Navist can provide students with access to educational resources and support their learning, which can improve educational outcomes and promote lifelong learning.
