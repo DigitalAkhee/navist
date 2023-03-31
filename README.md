@@ -74,3 +74,8 @@ Overall, Navist can contribute to achieving several SDGs, particularly those rel
    By sharing his experience, you have helped to make this process more efficient and effective.
 
 - To our chapter Lead [Umar Abdullahi](https://github.com/umarbrowser) how always there for us 
+
+
+# Team Members
+- [ADAMU MUHAMMAD MUHAMMAD ](https://github.com/AdamsGeeky)
+- [MUBARAK MUHAMMAD IBRAHIM](https://github.com/Mubarac404)
