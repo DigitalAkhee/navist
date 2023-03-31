@@ -52,17 +52,17 @@ Overall, Navist can contribute to achieving several SDGs, particularly those rel
 
 ## Application Screenshots
 
-<!-- | Login with Google  | Home Page | Market Place |
+| Navis  | Home Page | Locations |
 | ------------- | ------------- | ------------- |
-| ![login](screenshot/1.jpg)  | ![home page](screenshot/2.jpg)  | ![market place](screenshot/3.jpg)  |
+| ![login](./screen/home.png)  | ![home page](screen/ho2.png))  | ![Location](/screen/location.png)  |
 
-| Sell a Product  | Training | Forum |
+| Faculties  | Unit | Lecture Theathers |
 | ------------- | ------------- | ------------- |
-| ![sell a product](screenshot/4.jpg)  | ![training](screenshot/5.jpg)  | ![forum](screenshot/6.jpg)  |
+| ![Faculties](screen/facultty.png)  | ![Unit](screen/unit.png)  | ![Theathers](screen/lecturetheater.png)  |
 
-| Loans  | Keep Notes | Weather |
+| materials  | 100 level | Biology |
 | ------------- | ------------- | ------------- |
-| ![loans](screenshot/7.jpg)  | ![notes](screenshot/8.jpg)  | ![weather](screenshot/9.jpg)  | -->
+| ![materials](screen/materials.png)  | ![level](screen/levels.png)  | ![Biology](screen/bio.png)  |
 
 ## Shoutout
 * 
