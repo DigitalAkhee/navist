@@ -19,9 +19,6 @@
 
 - **SDG 17**: Partnerships for the Goals: Collaboration between universities, technology companies, and other stakeholders can help to develop and implement technology-based solutions such as Navist.
 
-Overall, Navist can contribute to achieving several SDGs, particularly those related to education, innovation, and reducing inequalities. By supporting students in their learning and navigation on campus, Navist can contribute to the development of a more equitable and sustainable world.
-
-
 ## We chose these specific SDGs and targets because 
 Navist can potentially address several targets under SDG 4: Quality Education. Here are some of the specific targets that Navist can contribute to:
 
@@ -45,7 +42,7 @@ By 2020, substantially expand globally the number of scholarships available to d
 
 While this target has a specific focus on scholarships, **Navist can still contribute to this goal by providing access to educational resources, including information and communications technology, to students in developing countries and supporting their learning.**
 
-Overall, Navist can contribute to several targets under SDG 4, particularly those related to improving access to **education** and **reducing inequalities**.
+Overall, Navist can contribute to achieving several SDGs, particularly those related to **education**, **innovation**, and **reducing inequalities**. By supporting students in their learning and navigation on campus, Navist can contribute to the development of a more equitable and sustainable world.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 
