@@ -9,9 +9,7 @@
 - past exams questions 
 - And past test question
 
-## The use of technology, 
-
-such as Navist, can contribute to achieving several of the United Nations' Sustainable Development Goals (SDGs), including:
+### The use of technology such as Navist, can contribute to achieving several of the United Nations' Sustainable Development Goals (SDGs), including:
 
 - **SDG 4**: Quality Education: Navist can provide students with access to educational resources and support their learning, which can improve educational outcomes and promote lifelong learning.
 
