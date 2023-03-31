@@ -1,7 +1,7 @@
 # NAVIST
 <h1 align="center"> Navist 2023 Google Developer Student Club (Gombe State University, Nigeria), Solution Challenge</h1>
 <p align="center">
-  <img src="./screen/home.png" width="200" height="200" />
+  ![](./public/assets/img/logo.svg)
 
 ## Introduction 🙋‍♂️
 > Navigation assistant and virtual intelligence for students **(Navist)** is a **web app** that utilizes the use of google technologies to help students (especially freshers) navigate campus and provide them with free and easy access to learning materials such as: 
