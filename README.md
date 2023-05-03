@@ -6,8 +6,8 @@
 ## Introduction 🙋‍♂️
 > Navigation assistant and virtual intelligence for students **(Navist)** is a **web app** that utilizes the use of google technologies to help students (especially freshers) navigate campus and provide them with free and easy access to learning materials such as: 
 - handouts, 
-- past exams questions 
-- And past test question
+- past exams questions, 
+- and past test question.
 # Global Todolist
 | Goals4  | Goals9 | Goals10 | Goals17 |
 | ------------- | ------------- | ------------- |---------------|
@@ -73,7 +73,7 @@ Overall, Navist can contribute to achieving several SDGs, particularly those rel
 
    By sharing his experience, you have helped to make this process more efficient and effective.
 
-- To our chapter Lead [Umar Abdullahi](https://github.com/umarbrowser) how always there for us 
+- To our chapter Lead [Umar Abdullahi](https://github.com/umarbrowser) he was always there for us, and support us. 
 
 
 # Team Members
