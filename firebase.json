@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "src",
+    "site": "gsunavis",
     "ignore": [
       "firebase.json",
       "**/.*",
